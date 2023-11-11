@@ -1,1 +1,1 @@
-# logika-web-14-00
+#this is for teaching in logika
